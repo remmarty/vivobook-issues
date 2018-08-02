@@ -10,7 +10,7 @@
 Po 2 miesiącach bezproblemowego użytkowania zaczęły się pojawiać problemy ze stabilnością działania systemów operacyjnych.
 
 * Windows 10 64-bit: ekrany BSoD (najczęściej  Stop Code: MEMORY_MANAGEMENT).
-* Ubuntu 18.04 64-bit: problemy przy wybudzaniu z trybu uśpienia (całkowita utrata interakcji z systemem), zawieszanie sie w losowych momentach (co nigdy sie nie zdarzało)
+* Ubuntu 18.04 64-bit: problemy przy wybudzaniu z trybu uśpienia (całkowita utrata interakcji z systemem), zawieszanie sie w losowych momentach (co nigdy się nie zdarzało)
 
 ![memory_management_bsod](screenshots/memory_management_bsod.jpg)
 ![bad_pool_bsod](screenshots/bad_pool_bsod.jpg)
@@ -57,6 +57,4 @@ Po zapoznaniu sie z dokumentacją, wypaleniu ISO na pendrive i uruchomieniu go o
 Z mojej strony:
 
 Prawdopodobną przyczyną jest uszkodzenie pamięci - wykazały to testy.
-**Niestety nie mam świadomości (ani poszlak) wkazujących na inne przyczyny, lecz nie wykluczam ich istnienia**
-
-
+**Niestety nie mam świadomości (ani poszlak) wkazujących na inne przyczyny, lecz nie wykluczam ich istnienia**.
